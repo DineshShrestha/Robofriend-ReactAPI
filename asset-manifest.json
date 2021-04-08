@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Robofriend-ReactAPI/static/css/main.cff6b81c.chunk.css",
+    "main.js": "/Robofriend-ReactAPI/static/js/main.b0ca709e.chunk.js",
+    "main.js.map": "/Robofriend-ReactAPI/static/js/main.b0ca709e.chunk.js.map",
+    "runtime-main.js": "/Robofriend-ReactAPI/static/js/runtime-main.7dedec65.js",
+    "runtime-main.js.map": "/Robofriend-ReactAPI/static/js/runtime-main.7dedec65.js.map",
+    "static/css/2.fe359a49.chunk.css": "/Robofriend-ReactAPI/static/css/2.fe359a49.chunk.css",
+    "static/js/2.23ca4a07.chunk.js": "/Robofriend-ReactAPI/static/js/2.23ca4a07.chunk.js",
+    "static/js/2.23ca4a07.chunk.js.map": "/Robofriend-ReactAPI/static/js/2.23ca4a07.chunk.js.map",
+    "index.html": "/Robofriend-ReactAPI/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/Robofriend-ReactAPI/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.cff6b81c.chunk.css.map": "/Robofriend-ReactAPI/static/css/main.cff6b81c.chunk.css.map",
+    "static/js/2.23ca4a07.chunk.js.LICENSE.txt": "/Robofriend-ReactAPI/static/js/2.23ca4a07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dedec65.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.23ca4a07.chunk.js",
+    "static/css/main.cff6b81c.chunk.css",
+    "static/js/main.b0ca709e.chunk.js"
+  ]
+}
